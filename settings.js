@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `𝗛𝗶 𝗜𝗺 𝗮𝗹𝗶𝘃𝗲 𝗻𝗼𝘄...
+𝗡𝗲𝗲𝗱 𝗛𝗲𝗹𝗽? 𝗺𝗲𝗻𝘂 𝗼𝗿 𝗮𝗹𝗶𝘃𝗲 𝗯𝘆 𝗲𝘇𝗶𝗼` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,11 +29,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['989935689926'] // owner number
+global.ownername = "𝗠𝗿.𝗘𝘇𝗶𝗼" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.socialm = "GitHub: 𝗡𝗢 𝗜𝗣" // github or insta name
+global.location = "𝗡𝗢 𝗜𝗣" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,16 +47,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.owner = ['989935689926']
+global.ownertag = 'wa.me/989935689926' //your tag number
+global.botname = '•𝙀𝙕𝙄𝙊 𝘽𝙊𝙏 𝙒-𝙈•' //ur bot name
+global.packname = "𝕰𝐙𝐈𝕺 ╏𝕸 × 𝐙╏ 𝐇𝕬𝕮𝐊" // sticker packname
+global.author = "𝙀𝙕𝙄𝙊 𝘽𝙊𝙏 𝙒-𝙈" // sticker author
+global.dragonemoji = '🪐' // Menu emoji
+global.footer = '[ •𝙀𝙕𝙄𝙊 𝘽𝙊𝙏 𝙒𝙈• ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['989935689926'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
