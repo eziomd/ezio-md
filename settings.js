@@ -12,7 +12,10 @@ global.APIKeys = {
 }
 
 global.alivemsg = `𝗛𝗶 𝗜𝗺 𝗮𝗹𝗶𝘃𝗲 𝗻𝗼𝘄...
-𝗡𝗲𝗲𝗱 𝗛𝗲𝗹𝗽? 𝗺𝗲𝗻𝘂 𝗼𝗿 𝗮𝗹𝗶𝘃𝗲 𝗯𝘆 𝗲𝘇𝗶𝗼` //Costomize Alive Message (type your message in `` )
+𝗡𝗲𝗲𝗱 𝗛𝗲𝗹𝗽? 𝗺𝗲𝗻𝘂 𝗼𝗿 𝗮𝗹𝗶𝘃𝗲 𝗯𝘆 𝗲𝘇𝗶𝗼
+𝗛𝗼𝘄 𝗮𝗿𝗲 𝘆𝗼𝘂 𝗯𝗿𝗼?
+𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : 𝖲𝖮𝖫𝖳𝖠𝖭 𝖠𝖫𝖮𝖭𝖤
+𝗛𝗢𝗦𝗧 : ×××××××××××` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -50,7 +53,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 global.owner = ['989935689926']
 global.ownertag = 'wa.me/989935689926' //your tag number
 global.botname = '•𝙀𝙕𝙄𝙊 𝘽𝙊𝙏 𝙒-𝙈•' //ur bot name
-global.packname = "𝕰𝐙𝐈𝕺 ╏𝕸 × 𝐙╏ 𝐇𝕬𝕮𝐊" // sticker packname
+global.packname = "𝗦𝗢𝗟𝗧𝗔𝗡 𝗔𝗟𝗢𝗡𝗘" // sticker packname
 global.author = "𝙀𝙕𝙄𝙊 𝘽𝙊𝙏 𝙒-𝙈" // sticker author
 global.dragonemoji = '🪐' // Menu emoji
 global.footer = '[ •𝙀𝙕𝙄𝙊 𝘽𝙊𝙏 𝙒𝙈• ]' //
