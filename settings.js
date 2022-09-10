@@ -14,7 +14,8 @@ global.APIKeys = {
 global.alivemsg = `𝗛𝗶 𝗜𝗺 𝗮𝗹𝗶𝘃𝗲 𝗻𝗼𝘄...
 𝗡𝗲𝗲𝗱 𝗛𝗲𝗹𝗽? 𝗺𝗲𝗻𝘂 𝗼𝗿 𝗮𝗹𝗶𝘃𝗲 𝗯𝘆 𝗲𝘇𝗶𝗼
 𝗛𝗼𝘄 𝗮𝗿𝗲 𝘆𝗼𝘂 𝗯𝗿𝗼?
-𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 :𝖤𝖹𝖮𝖮
+𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : 𝙀𝙕𝙄𝙊
+𝗢𝗪𝗡𝗘𝗥 𝗡𝗨𝗠𝗕𝗘𝗥 : wa.me/989935689926
 𝗛𝗢𝗦𝗧 : ×××××` //Costomize Alive Message (type your message in `` )
 
 
@@ -39,7 +40,7 @@ global.socialm = "GitHub: 𝗡𝗢 𝗜𝗣" // github or insta name
 global.location = "𝗡𝗢 𝗜𝗣" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.imgur.com/AaIXBHG.jpeg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
