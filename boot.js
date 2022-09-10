@@ -279,19 +279,21 @@ KUMUTHU.sendMessage(anu.id, buttonMessage)
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                     xeonbody = ` Bye @${xeonName.split("@")[0]}
+                     xeonbody = ` 𝗕𝗬𝗘 @${xeonName.split("@")[0]}
 
- Left From  ${metadata.subject}
+ 🦄𝗟𝗘𝗙𝗧 𝗙𝗥𝗢𝗠 :
+ ${metadata.subject}
+ 𝗠𝗘𝗠𝗕𝗘𝗥 :
  ${xeonmembers} Members
                     
-Date =  ${xeondate}
-Time =  ${xeontime} `
+𝗗𝗔𝗧𝗘 =  ${xeondate}
+𝗧𝗜𝗠𝗘 =  ${xeontime} `
 
    let buttons = [
     {buttonId: `owner`, buttonText: {displayText: 'BYE'}, type: 1}
     ]
     let buttonMessage = {
-        image: { url: 'https://i.ibb.co/H4h3mh4/20220805-080200.jpg'},
+    ]
     caption: xeonbody,
     footer: `${footer}`,
     buttons,
